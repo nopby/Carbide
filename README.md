@@ -8,9 +8,9 @@ support a native compiler.
 
 ## Example
 
-use std;
+import std
 
 main: () 
 {
-    std::println("hello world");
+    std::println("hello world")
 }
